@@ -28,7 +28,7 @@ int main(){
 
     cout << "Mancano " << toPrint << endl;
 
-
+    system("pause");
     return 0;
 }
 
